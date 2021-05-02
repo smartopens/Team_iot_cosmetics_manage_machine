@@ -88,7 +88,7 @@
 
 https://www.youtube.com/watch?v=PofEzpXMSug
 
-프로그램 설명 영상
+#### 프로그램 설명 영상
 ***
 ### 결과물 및 시연영상
 
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=PofEzpXMSug
 
 https://www.youtube.com/watch?v=TWAgs8BrAZU
 
-프로젝트 결과물 시연 영상
+#### 프로젝트 결과물 시연 영상
 ***
 ### 느낀점
 
