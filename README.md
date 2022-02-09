@@ -34,10 +34,7 @@
 
 추가 배출 기능을 위한 page입니다. 추가 배출을 원할 경우 이 page에서 추가 배출을 할 수 있습니다.
 
-
 - 라즈베리파이 - Firebase 연동 환경 구성
-
-![image](https://user-images.githubusercontent.com/44837403/116769316-192a5680-aa76-11eb-9283-a50c67701be7.png)
 
 - 라즈베리파이에서 온도센서, 모션센서, 스텝모터, dc모터, 릴레이모듈 사용
 
