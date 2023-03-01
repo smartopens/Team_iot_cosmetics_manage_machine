@@ -43,11 +43,11 @@
 ### View
 
 
-- 기구 
+- 기구   
 ![image](https://user-images.githubusercontent.com/44837403/181682420-61e5ec17-2447-41f8-abf7-2635beec2656.png)  
 
 
-- 터치스크린 화면
+- 터치스크린 화면  
 ![image](https://user-images.githubusercontent.com/44837403/181682268-889ba94b-9022-44ba-bf44-3c70d97f160e.png)  
 ![image](https://user-images.githubusercontent.com/44837403/181682353-b304aa82-f8bd-4531-8d7a-e8a4a683c7db.png)  
 
